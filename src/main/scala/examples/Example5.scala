@@ -12,7 +12,7 @@ object Example5 {
     val senv = StreamExecutionEnvironment.getExecutionEnvironment
 
     val text = senv.socketTextStream("127.0.0.1", 9005, '\n')
-    //    use "nc -l 9000" and then type words separated by newlines
+    //    use "nc -l 9005" and then type words separated by newlines
 
     val windowCounts = text
       .flatMap { w => w.split("\\s") }
