@@ -1,0 +1,1 @@
+[[{"${BASE}/src/main/resources/tmp.csv":["${BASE}/target/scala-2.12/classes/tmp.csv"]},{"${BASE}/target/scala-2.12/classes/tmp.csv":["${BASE}/src/main/resources/tmp.csv"]}],{"${BASE}/src/main/resources/tmp.csv":{"file":"file:///home/seffenberger/Documents/Private/Repos/scala-flink/src/main/resources/tmp.csv","lastModified":1698231476530}}]
