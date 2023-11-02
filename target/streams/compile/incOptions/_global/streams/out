@@ -5,8 +5,36 @@
 [0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
 [0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
 [0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example5$WordWithCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example7$WordWithCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example7$WordWithCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example5$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example6$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example6$WordWithCount$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Example2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example5$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Example2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example6$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example5$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Example1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example4$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example7$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example4$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example4$$anon$3$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example4$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example7$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example4$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example6$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example5$WordWithCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example4$$anon$5$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example6$WordWithCount.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Example1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example7$$anon$1$$anon$2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/seffenberger/Documents/Private/Repos/scala-flink/target/scala-2.12/classes.bak[0m

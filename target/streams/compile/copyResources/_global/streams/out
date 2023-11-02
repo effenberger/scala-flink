@@ -1,2 +1,3 @@
 [0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/seffenberger/Documents/Private/Repos/scala-flink/src/main/resources/OnlineRetail.csv,/home/seffenberger/Documents/Private/Repos/scala-flink/target/scala-2.12/classes/OnlineRetail.csv)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/home/seffenberger/Documents/Private/Repos/scala-flink/src/main/resources/tmp.csv,/home/seffenberger/Documents/Private/Repos/scala-flink/target/scala-2.12/classes/tmp.csv)[0m
