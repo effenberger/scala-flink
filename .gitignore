@@ -1,21 +1,25 @@
-*.un~
-*.swp
-tags
-target
-project/boot
-.history
-project.vim
-*.old
-.idea
-.project
-.classpath
-.metadata/
-.bsp
+*.class
+
+# sbt specific
+target/
+lib_managed/
+src_managed/
+project/project/
+project/target/
+
+# IntelliJ IDEA files
+.idea/
+*.iws
+*.iml
+*.ipr
+.out/
+
+# Logs
+logs
+*.log
+
+# Others
+.tmp
+*~
+temp/
 .bsp/
-.metals
-.vscode
-.bloop
-project/metals.sbt
-project/project
-.scala
-.scala-build
