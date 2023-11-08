@@ -10,7 +10,11 @@ object Example2 {
 
     val env = ExecutionEnvironment.getExecutionEnvironment
 
-    val text = env.fromElements("Sascha arbeitet bei Zalando", "Axel ist Sascha dem sein Chef", "Manchmal regnet es in BErlin")
-    println(text.map(s => s.split(" ")))
+    val text = env.fromElements("Hello, how are you?", "I am fine, thank you", "Test, test test")
+
+    text
+      .map(s => s.split(" "))
+      .collect()
+      .foreach(array => array.foreach(println))
   }
 }
